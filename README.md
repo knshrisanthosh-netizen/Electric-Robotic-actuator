@@ -4,6 +4,15 @@
 
 A compact BLDC motor actuator with an integrated planetary gearbox.
 
+## Sponsors
+
+Actuator 0.1 is proudly sponsored by:
+
+- Eased
+- Oshlaw
+
+Special thanks to our sponsors for supporting this project.
+
 ## Project Overview
 
 Actuator 0.1 combines a BLDC motor and a planetary reduction gearbox into a compact mechanical assembly. The design is intended for robotic applications that require controlled rotation, torque multiplication, and a compact drive unit.
