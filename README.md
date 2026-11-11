@@ -8,7 +8,7 @@ A compact BLDC motor actuator with an integrated planetary gearbox.
 
 Actuator 0.1 is proudly sponsored by:
 
-- Eased
+- Easyeda
 - Oshlaw
 
 Special thanks to our sponsors for supporting this project.
